@@ -4,7 +4,7 @@ Trebuie sa instalez librăria pandas și matplotlibin Visual Studio.
 
 Rulez fișierul problema1.py/ problema2.py folosind Visual Studio. 
 
-(:\Users\nastase>C:/Users/nastase/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/nastase/OneDrive - Universitatea Politehnica Bucuresti/Desktop/PYTHON/problema1.py") 
+python.exe "problema1.py" 
 
  
 
